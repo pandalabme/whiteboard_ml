@@ -21,3 +21,10 @@ To https://github.com/pandalabme/whiteboard_ml.git
  create mode 100644 test.ipynb
 To https://github.com/pandalabme/whiteboard_ml.git
    6c6e61f..2115840  main -> main
+[main 6c78d89] auto
+ 4 files changed, 352 insertions(+), 1322 deletions(-)
+ copy line_regression.ipynb => bk.ipynb (100%)
+ rewrite line_regression.ipynb (99%)
+ delete mode 100644 test.ipynb
+To https://github.com/pandalabme/whiteboard_ml.git
+   2115840..6c78d89  main -> main
