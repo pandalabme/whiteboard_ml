@@ -236,3 +236,8 @@ To https://github.com/pandalabme/whiteboard_ml.git
  2 files changed, 28 insertions(+), 10 deletions(-)
 To https://github.com/pandalabme/whiteboard_ml.git
    956b89f..602fc47  main -> main
+[main 75fbaf6] auto
+ 3 files changed, 176 insertions(+), 1066 deletions(-)
+ delete mode 100644 bk.ipynb
+To https://github.com/pandalabme/whiteboard_ml.git
+   602fc47..75fbaf6  main -> main
