@@ -689,3 +689,8 @@ To https://github.com/pandalabme/whiteboard_ml.git
  1 file changed, 4 insertions(+)
 To https://github.com/pandalabme/whiteboard_ml.git
    6182b17..c4a6780  main -> main
+[main c3f5f1c] auto
+ 2 files changed, 91 insertions(+)
+ create mode 100644 kalman.ipynb
+To https://github.com/pandalabme/whiteboard_ml.git
+   c4a6780..c3f5f1c  main -> main
