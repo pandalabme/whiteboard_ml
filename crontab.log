@@ -4353,3 +4353,6 @@ To https://github.com/pandalabme/whiteboard_ml.git
  1 file changed, 4 insertions(+)
 To https://github.com/pandalabme/whiteboard_ml.git
    3357380..4081c02  main -> main
+[main c08eb33] auto
+ 1 file changed, 4 insertions(+)
+fatal: unable to access 'https://github.com/pandalabme/whiteboard_ml.git/': Could not resolve host: github.com
