@@ -7504,3 +7504,9 @@ To https://github.com/pandalabme/whiteboard_ml.git
  1 file changed, 4 insertions(+)
 To https://github.com/pandalabme/whiteboard_ml.git
    0c9ff81..9ccc9fc  main -> main
+[main d61d2ca] auto
+ 1 file changed, 4 insertions(+)
+remote: Internal Server Error
+To https://github.com/pandalabme/whiteboard_ml.git
+ ! [remote rejected] main -> main (Internal Server Error)
+error: failed to push some refs to 'https://github.com/pandalabme/whiteboard_ml.git'
