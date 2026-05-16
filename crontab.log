@@ -70163,3 +70163,12 @@ To https://github.com/pandalabme/whiteboard_ml.git
  1 file changed, 4 insertions(+)
 To https://github.com/pandalabme/whiteboard_ml.git
    9af62f2c..1eb150a0  main -> main
+[main 10213160] auto
+ 1 file changed, 4 insertions(+)
+To https://github.com/pandalabme/whiteboard_ml.git
+   1eb150a0..10213160  main -> main
+error: file write error: No space left on device
+fatal: unable to write loose object file
+error: file write error: No space left on device
+fatal: unable to write loose object file
+Everything up-to-date
